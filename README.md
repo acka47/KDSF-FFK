@@ -1,6 +1,6 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Classification of interdisciplinary research fields for the „Research Core Dataset“ (Kerdatensatz Forschung)
+Classification of interdisciplinary research fields for the „Research Core Dataset“ (Kerndatensatz Forschung)
 ============================================================================================================
 
 This repository holds the classification for interdisciplinary research fields as a SKOS representation in Turtle syntax. The classification is available in German only.
